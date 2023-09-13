@@ -1,3 +1,3 @@
-[![C++ CI](https://github.com/ChicoState/FirstIO/actions/workflows/actions.yml/badge.svg)](https://github.com/ChicoState/FirstIO/actions/workflows/actions.yml)
+[![Lint Code Base](https://github.com/B-Payne/MyFirstExample/actions/workflows/super-linter.yml/badge.svg)](https://github.com/B-Payne/MyFirstExample/actions/workflows/super-linter.yml)
 
-# First IO project
+# First main.cpp
